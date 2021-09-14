@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//This is a coffee Machine
 class events {
     public int water = 400;
     public int milk = 540;
